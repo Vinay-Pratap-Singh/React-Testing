@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing 1`] = `
+<div>
+  <div>
+    <h1>
+      Snapshot testing
+    </h1>
+    <p>
+      Performing the snapshot testing to check the component ui change
+    </p>
+  </div>
+</div>
+`;
